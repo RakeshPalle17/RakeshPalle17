@@ -51,8 +51,11 @@
 </p>
 
 <h2 align="left"> 🔥 Stats</h2>
-<img align="center" src="https://streak-stats.demolab.com?user=rakeshpalle17&theme=tokyonight&hide_current_streak=true" alt="rakeshpalle17"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshpalle17&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakeshpalle17&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rakeshpalle17&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rakeshpalle17&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+    <img align="center" src="https://streak-stats.demolab.com?user=rakeshpalle17&theme=tokyonight&hide_current_streak=true" alt="rakeshpalle17"/>
+</div>
 
 <img src="https://komarev.com/ghpvc/?username=rakeshpalle17&style=flat-square&color=blue" alt="rakeshpalle17"/>
