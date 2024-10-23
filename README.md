@@ -7,7 +7,6 @@
 - 💬 Ask me about **Java, SQL** or anything related to **Software Development**
 - 📫 How to reach me: **rpalle@binghamton.edu**
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I love to spend my time coding when I'm not... coding**
 
 <h2 align="left">☕ Get in Touch</h2>
 <p align="left">
