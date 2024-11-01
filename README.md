@@ -15,7 +15,10 @@
     <a href="https://github.com/rakeshpalle17" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="rakeshpalle17"/></a>
     &nbsp;&nbsp;
     <a href="mailto:rpalle@binghamton.edu" target="_blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="rpalle@binghamton.edu"/></a>
+    &nbsp;&nbsp;
+    <a href="https://leetcode.com/u/Rakesh_Palle/" target="_blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="Rakesh_Palle"/></a>
 </p>
+
 
 <h2 align="left">💻 Tech Stack</h2>
 <p align="left"> 
