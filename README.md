@@ -2,10 +2,10 @@
 
 <h2 align="left"> 💫 About Me: </h2>
 
-- 👨‍💻 I am a **Computer Science Student**, with 3+ years of experience in Software Development
+- 👨‍💻 I am a **Masters in Computer Science Student**, with 3+ years of experience in Cloud and Software Development
 - 🌱 I’m currently learning **Python** and expanding my knowledge in **Data Science**
-- 💬 Ask me about **Java, SQL** or anything related to **Software Development**
-- 📫 How to reach me: **rpalle@binghamton.edu**
+- 💬 Ask me about **Java, SQL** or anything related to **Cloud and Software Development**
+- 📫 How to reach me: **rakeshpalle3x@gmail.com**
 - 😄 Pronouns: **He/Him**
 
 <h2 align="left">☕ Get in Touch</h2>
