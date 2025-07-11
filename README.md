@@ -10,11 +10,11 @@
 
 <h2 align="left">☕ Get in Touch</h2>
 <p align="left">
-    <a href="https://www.linkedin.com/in/rakeshpalle17/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="RakeshPalle17" /></a>
+    <a href="https://www.linkedin.com/in/pallerakesh/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="pallerakesh" /></a>
     &nbsp;&nbsp;
     <a href="https://github.com/rakeshpalle17" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="rakeshpalle17"/></a>
     &nbsp;&nbsp;
-    <a href="mailto:rpalle@binghamton.edu" target="_blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="rpalle@binghamton.edu"/></a>
+    <a href="mailto:rakesh17palle@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="rakesh17palle@gmail.com"/></a>
     &nbsp;&nbsp;
     <a href="https://leetcode.com/u/Rakesh_Palle/" target="_blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="Rakesh_Palle"/></a>
 </p>
