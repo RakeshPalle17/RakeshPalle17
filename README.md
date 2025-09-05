@@ -2,10 +2,10 @@
 
 <h2 align="left"> 💫 About Me: </h2>
 
-- 👨‍💻 I am a **Masters in Computer Science Student**, with 4+ years of experience in Cloud and Software Development
-- 🌱 I’m currently learning **Python** and expanding my knowledge in **Data Science**
-- 💬 Ask me about **Java, SQL** or anything related to **Cloud and Software Development**
-- 📫 How to reach me: **rakesh17palle@gmail.com**
+- 👨‍💻 I am a **Masters in Computer Science Student**, with 4+ years of experience in Data Science, Data Analysis, AI/ML and Software Development
+- 🌱 I’m currently learning **LLMs** and expanding my knowledge in **Gen AI**
+- 💬 Ask me about **Python, SQL** or anything related to **Data Science and AI/ML**
+- 📫 How to reach me: **rpalle3x@gmail.com**
 - 😄 Pronouns: **He/Him**
 
 <h2 align="left">☕ Get in Touch</h2>
