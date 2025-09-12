@@ -10,7 +10,7 @@
 
 <h2 align="left">☕ Get in Touch</h2>
 <p align="left">
-    <a href="https://www.linkedin.com/in/pallerakesh/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="pallerakesh" /></a>
+    <a href="https://www.linkedin.com/in/rakeshpalle117/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="rakeshpalle117" /></a>
     &nbsp;&nbsp;
     <a href="https://github.com/rakeshpalle17" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="rakeshpalle17"/></a>
     &nbsp;&nbsp;
