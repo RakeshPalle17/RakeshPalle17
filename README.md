@@ -2,9 +2,9 @@
 
 <h2 align="left"> 💫 About Me: </h2>
 
-- 👨‍💻 I am a **Masters in Computer Science Student**, with 4+ years of experience in Data Science, Data Analysis, AI/ML and Software Development
+- 👨‍💻 I am a **Masters in Computer Science Student**, with 4+ years of experience in AI/ML, Software Development, Data Science and Data Analysis, 
 - 🌱 I’m currently learning **LLMs** and expanding my knowledge in **Gen AI**
-- 💬 Ask me about **Python, SQL** or anything related to **Data Science and AI/ML**
+- 💬 Ask me about **Python, SQL** or anything related to **AI/ML and Data Science**
 - 📫 How to reach me: **rpalle3x@gmail.com**
 - 😄 Pronouns: **He/Him**
 
@@ -35,13 +35,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40">
-<br>
-<b>Frameworks: </b>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" />
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg' alt="docker" width="40" height="40">
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg' alt="googlecloud" width="40" height="40">
 <br>
 <b>Tools/Operating Systems:</b>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
