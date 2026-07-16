@@ -3,6 +3,5 @@
 <h2 align="left"> 💫 About Me: </h2>
 
 - 👨‍💻 I am a **Masters in Computer Science Student**, with experience in AI/ML, Software Development, Data Science and Data Analysis, 
-- 🌱 I’m currently learning **LLMs** and expanding my knowledge in **Gen AI**
-- 💬 Ask me about **Python, SQL** or anything related to **AI/ML and Data Science**
+- 💬 Ask me about **GenAI, AgenticAI, Python, SQL** or anything related to **AI and ML**
 - 😄 Pronouns: **He/Him**
